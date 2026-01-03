@@ -28,4 +28,15 @@ Hi, I'm Chung — a Javascript Backend Engineer
 
 
 
-### 📄 Certifications:
+
+## 📫 Connect with me
+
+📧 **Email:** [tanchung37@gmail.com](mailto:tanchung37@gmail.com)
+
+📅 **Availability:** Open to internships
+
+---
+
+<p align="center">
+  <i>💼 Thanks for visiting my profile!</i>
+</p>
